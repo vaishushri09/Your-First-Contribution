@@ -248,5 +248,13 @@
                 </a> 
             </td>
         </tr>
+        <tr>
+                <td align="center">
+                <a href="https://github.com/vaishushri09">
+                    <sub><b>Vaishnavi shripati</b></sub>
+                    <br />
+                </a>
+            </td>
+</tr>
     </tbody>
 </table>
